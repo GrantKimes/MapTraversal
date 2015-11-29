@@ -8,3 +8,13 @@ This was the final project for a C++ programming course at the University of Mia
 - Graph traversal techniques to find the shortest path.
 - Graphics library usage to draw images. 
 - Various techniques for well-structured code: header files, using debugger, inheritance
+
+
+Screenshot of the working project drawing the path from Chicago to Ann Arbor.
+![chicago-annarbor-map](MapQuest Project/Screenshots/chicago-annarbor-map.png)
+
+Here are the driving instructions that are printed.
+![chicago-annarbor-directions](MapQuest Project/Screenshots/chicago-annarbor-directions.png)
+
+It traverses across the country and displays an appropriately sized map tile.
+![chicago-miami-map](MapQuest Project/Screenshots/chicago-miami-map.png)
